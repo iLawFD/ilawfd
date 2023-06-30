@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fahad ALmutairi</h1>
 <h3 align="center">An ambitious computer science student at KFUPM. Interested in every thing related to Data sciecnce</h3>
-<h4 align="center">I love to share my projects on GitHub not just for people to see it. But mot importantly for me to see how far i imporved 
+<h4 align="center">I love to share my projects on GitHub not just for people to see it. But mot importantly for me to see how far i improved :)
 <br></br>
-  - 📫 How to reach me **number:0535077339, email: ggforever111@gmail.com**
+  - 📫 How to reach me number:0535077339, email: ggforever111@gmail.co
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
