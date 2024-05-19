@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahad ALmutairi</h1>
+<h1 align="center">Hi 👋, I'm Fahad Almutairi</h1>
 <h3 align="center">An ambitious computer science student at KFUPM. Interested in every thing related to Data sciecnce</h3>
 <h4 align="center">I love to share my projects on GitHub not just for people to see it. But most importantly for me to see how far i improved :)
 <br></br>
