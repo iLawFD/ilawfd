@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Almutairi</h1>
 <h3 align="center">An ambitious First Honor Computer Science student at KFUPM</h3>
-<h4 align="center">I love to share my projects on GitHub not just for people to see it. But most importantly for me to see how far i improved :)
+<h4 align="center">Interested in AI-Driven Cybersecurity(Threat Detection Systems ,  Protecting LLMs from Prompt Injection ...)
 <br></br>
   - 📫 How to reach me number:0535077339, email: ggforever111@gmail.com
 
